@@ -1,0 +1,10 @@
+# Arquivos de ambiente e segredos
+.env
+serviceAccountKey.json
+
+# Pasta de ambiente virtual do Python
+venv/
+__pycache__/
+
+# Arquivos do VS Code
+.vscode/

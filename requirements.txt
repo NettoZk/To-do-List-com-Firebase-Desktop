@@ -1,0 +1,7 @@
+PyQt5
+requests
+firebase-admin
+google-cloud-firestore
+pandas
+openpyxl
+python-dotenv
